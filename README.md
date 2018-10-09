@@ -1,15 +1,20 @@
-# Title
+# Removing Excess Code Lab
 
 ## Objectives
 
--SWBAT 1
--SWBAT 2
+- Separate used and unused variables
+- Interpret existing functions to derive purpose
+- Modify expressions and statements while maintaining functionality
 
-#### Introduction
+## Introduction
 
-#### SWBAT 1
+- Walkthrough some ways to identify excess code
 
-#### SWBAT 2
+### Separate used and unused variables
+
+### Interpret existing functions to derive purpose
+
+### Modify expressions and statements while maintaining functionality
 
 ## Conclusion
 
