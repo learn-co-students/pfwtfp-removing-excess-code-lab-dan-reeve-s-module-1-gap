@@ -5,7 +5,7 @@ def bad_loop(array)
   i = 0
   new_array = []
   loop do
-    new_array << array[i] if array[i]
+    new_array << array[i] 
     break if i > array.length
   end
   new_array
